@@ -1,0 +1,28 @@
+h3,h4{
+    color:black;
+    font-family: 'Stylish', sans-serif;
+}
+
+.panel{
+    background: silver;
+    
+}
+
+.followus{
+    background: black;
+}
+
+.carousel.slide {
+    
+      position: relative;
+      min-height: 127px;
+      max-height: 227px;
+}
+
+.img-main-carousel {
+    height: 500px;
+} 
+
+.custemersay{
+    margin-top: 400px;
+}

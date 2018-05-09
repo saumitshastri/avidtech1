@@ -1,0 +1,19 @@
+h3 {
+    color: black;
+    
+}
+h1{
+    font-weight: bold;
+}
+
+#heading{
+    background-color:black;
+}
+
+.search{
+    position: fixed;
+    text-align: right;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+

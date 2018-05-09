@@ -1,0 +1,17 @@
+.servicesheading{
+    
+    padding: 2px;
+}
+
+.glyphicon {
+    font-size: 100px;
+    color: blue;
+    background: silver;
+}
+
+h3,h4{
+    color:black;
+    font-family: 'Stylish', sans-serif;
+}
+
+
